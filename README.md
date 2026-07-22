@@ -1,1 +1,1 @@
-# nezam
+# tehran-stock-wavelet-diversification
