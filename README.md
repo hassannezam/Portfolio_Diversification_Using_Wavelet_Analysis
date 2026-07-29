@@ -1,4 +1,4 @@
-
+The codes in this repository are based on the Fernández (2012) wavelet approach and were originally developed in 2020, but uploaded to GitHub at a later date. The wavelet decomposition script uses MODWT with the LA8 filter. This project has been forked from the MODWT-MARS repository by 0zean and extended to include multiple wavelet correlation (MWC) analysis for 11 companies listed on the Tehran Stock Exchange.
 
 📁 Portfolio_Diversification_Using_Wavelet_Analysis/
 
