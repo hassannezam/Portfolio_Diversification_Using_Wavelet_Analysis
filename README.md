@@ -1,4 +1,3 @@
-## 📂 Project Structure
 
 📁 Portfolio_Diversification_Using_Wavelet_Analysis/
 
